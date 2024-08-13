@@ -10,9 +10,7 @@ from openpyxl import load_workbook
 
 # Exemple de liste de projets (remplacez par votre liste réelle)
 liste_projets = [
-    "Projet Evaluation/diagnostic du niveau de maturité relativement AUX normes ISO 9001, 45001, 14001 et implémentation du Système de Management de Qualité 9001 de Cl ENERGIES
-",
-    "",
+    "Projet Evaluation/diagnostic du niveau de maturité relativement AUX normes ISO 9001, 45001, 14001 et implémentation du Système de Management de Qualité 9001 de Cl ENERGIES",
     "Evaluation /diagnostic et opérationnalisation du SMCA ISO 22301 de l’ONEP
 ",
     "Etude pour la mise en œuvre, le suivi et le contrôle des services de vérification de la conformité des produits embarqués à destination de la Côte d’Ivoire
