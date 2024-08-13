@@ -10,11 +10,20 @@ from openpyxl import load_workbook
 
 # Exemple de liste de projets (remplacez par votre liste réelle)
 liste_projets = [
-    "Projet 1",
-    "Projet 2",
-    "Projet 3",
-    "Projet 4",
-    "Projet 5"
+    "Projet Evaluation/diagnostic du niveau de maturité relativement AUX normes ISO 9001, 45001, 14001 et implémentation du Système de Management de Qualité 9001 de Cl ENERGIES
+",
+    "",
+    "Evaluation /diagnostic et opérationnalisation du SMCA ISO 22301 de l’ONEP
+",
+    "Etude pour la mise en œuvre, le suivi et le contrôle des services de vérification de la conformité des produits embarqués à destination de la Côte d’Ivoire
+",
+    "Diagnostic et implémentation du SMQ ISO 9001 à l’UIPA (Université Internationale Privée d’Abidjan)
+"
+"Etude d’impact socio-économique du projet / coût d’opportunité d’un tel projet (réhabilitation d’un siège de l’Inspection Générale d’Etat) en sous-traitance avec le cabinet pyramide
+",
+"Mécanismes de financement des charges récurrentes (coûts d’entretien et de fonctionnement de bâtiment et des équipements y afférents) dans le cadre du projet de réhabilitation d’un siège de l’Inspection Générale de l’Etat) en sous-traitance avec le cabinet Pyramide
+"
+
 ]
 
 # Fonction pour ajouter une entrée dans le fichier Excel
