@@ -18,7 +18,7 @@ liste_projets = [
     "Mécanismes de financement des charges récurrentes (coûts d’entretien et de fonctionnement de bâtiment et des équipements y afférents) dans le cadre du projet de réhabilitation d’un siège de l’Inspection Générale de l’Etat) en sous-traitance avec le cabinet Pyramide"
     "Etude sur la structure du prix du pain",
     "PAR complémentaire",
-    "ETUDE DE FAISABILITE POUR LA CREATION D’UNE PLATEFORME DE TRANSPORT, DE STOCKAGE, DE TRANSIT ET DE TRANSBORDEMENT DANS LE DISTRICT AUTONOME DE LA VALLEE DU BANDAMA"
+    "ETUDE DE FAISABILITE POUR LA CREATION D’UNE PLATEFORME DE TRANSPORT, DE STOCKAGE, DE TRANSIT ET DE TRANSBORDEMENT DANS LE DISTRICT AUTONOME DE LA VALLEE DU BANDAMA",
     "Métro d’Abidjan Ligne 1",
     "PAR Travaux d’assainissement du canal d’Anoumambo",
     "Etude Economique et Financière sur la problématique de la tarification de la livraison et du positionnement des conteneurs aux Ports Autonomes d’Abidjan et de San-Pedro (FEDERMAR)",
