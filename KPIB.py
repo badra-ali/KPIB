@@ -75,7 +75,7 @@ st.title("Assignation des Collaborateurs aux Projets")
 
 # Entrées utilisateur
 collaborateur = st.text_input("Nom du Collaborateur")
-fichier_excel = st.text_input("Chemin du fichier Excel centralisé", "projets_collaborateurs.xlsx")
+#fichier_excel = st.text_input("Chemin du fichier Excel centralisé", "projets_collaborateurs.xlsx")
 
 # Liste de projets avec cases à cocher
 projets_selectionnes = st.multiselect("Sélectionnez les projets qui vous concernent", liste_projets)
